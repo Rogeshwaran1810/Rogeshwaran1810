@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rogeshwaran1810
+- 👋 Hi, I’m @Rogeshwaran
 - 👀 I’m interested in Data analyst for Financial opreration
 - 🌱 I’m currently learning Business analayst
 - 💞️ I’m looking to collaborate on ...
