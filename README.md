@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Rogeshwaran
-- 👀 I’m interested in Data analyst for Financial opreration
-- 🌱 I’m currently learning Business analayst
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello everyone! My name is Rogeshwaran, and this is my portfolio.
+I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
+I have a background in digital marketing and financial data analysis.
 
-<!---
-Rogeshwaran1810/Rogeshwaran1810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can see more information in my CV.
+
+This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
